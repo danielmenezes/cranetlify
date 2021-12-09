@@ -17,6 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React with Rocketseat
+          Nova branch
         </a>
       </header>
     </div>
